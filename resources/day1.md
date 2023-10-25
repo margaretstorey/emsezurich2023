@@ -18,7 +18,7 @@ By the end of this first day and first project you will be able to understand an
 - [Project 1](../activities/project1.md)
 
 ## Assigned Readings
-- See slides for each topic for assigned readings.
+- See Project 1 and also the slides for additional readings. 
 
 **Optional readings/podcasts:**
 

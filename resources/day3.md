@@ -2,11 +2,8 @@
 
 Date: Friday, Nov 3rd, 2023 
 
-## Lecture Topics
-- TBD
-
-## Lecture Objectives
-By the end of this final day of the course you will be  
+## Lecture Topics and Objectives
+- Coming soon 
 
 ## Assigned Work
 - Participate in the provocation and discussion at the end of the day 
