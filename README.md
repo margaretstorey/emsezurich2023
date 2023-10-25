@@ -1,37 +1,43 @@
-# EMSE Zurich 2023
+# Empirical Research Methods
+### University of Zurich, Fall 2023
+(S) (03SMDINF1147)
 
 [Official course link](https://studentservices.uzh.ch/uzh/anonym/vvz/index.html?sap-language=EN&sap-ui-language=EN#/details/2023/003/SM/51202169)
 (at the University of Zurich)
 
-Empirical software engineering is a research area concerned with the study of software engineering processes and artifacts, with the goal to understand and improve software engineering tools, processes, culture and software quality. This topic is of relevance to researchers, practitioners and the users of software systems. This course will prepare PhD students for advanced research in industrial and academic settings by examining how to plan, conduct and report on empirical investigations of software engineering phenomena. The course will cover techniques applicable to each of the steps of an empirical software engineering research project, including formulating and identifying relevant research questions, data analysis (with a focus on qualitative and mixed methods), building evidence, developing new and refining existing theories, assessing validity and novelty of the research methods and outcomes, and publishing and presenting findings to different audiences. The course will emphasize research methods that are used to study human interactions with software engineering methods and tools.
+### Description
+Empirical software engineering is a research area concerned with the study of software engineering processes and artifacts, with the goal to understand and improve software engineering tools, processes, culture and software quality. This topic is of relevance to researchers, practitioners and the users of software systems across many domains. This course will prepare PhD students for advanced research in industrial and academic settings by examining how to plan, conduct and report on empirical investigations of software engineering and other computing or interdisciplinary phenomena. The course will cover techniques applicable to each of the steps of an empirical research project, including formulating and identifying relevant research questions, data analysis (with a focus on qualitative and mixed methods), building evidence, developing new and refining existing theories, assessing validity and novelty of the research methods and outcomes, and publishing and presenting findings to different audiences. The course will emphasize research methods that are used to study human interactions with software engineering methods and tools but the insights are applicable to other domains in computing.
+
 We will explore, understand and critique the methods used in several examples of studies of software engineering methodologies and tools used in industry, and through academic peer reviewed articles published in empirical software engineering venues.
 
-This week long will have three full intense days of lectures and discussions (Monday/Wednesday/Friday), punctuated by two days (Tuesday/Thursday) for student reading and exercises to deepen insights on the material explored during the lectures.  Students will report back on their exercises and reading during the final two lecture days (Wednesday and Friday).  
+This week long course will have three full intense days of lectures and discussions (Monday/Wednesday/Friday), punctuated by two days (Tuesday/Thursday) for student reading and projects to deepen insights on the material explored during the lectures.  Students will report back on their projects and readings during the final two lecture days (Wednesday and Friday).  
 
 ---
+
+### Lecture Schedule (tentative)
 
 **Lectures will held in room BIN-1.D.29 and on Zoom (link available from the instructor by request).**
 
-|                 Day and link <br> to materials | Time                             | Lecture Topics and        Deliverables                             |
-|-----------------------------------------------:|----------------------------------|--------------------------------------------------------------------|
-|  [ Monday <br> Oct 30 ](resources/Lecture1.md) | 9-10:30am                        | Introductions <br> Who, What, How of Software Engineering Research | 
-|                                                | 11:00-12:30pm                    | Formulating Research Questions (Who)                               |
-|                                                | 1:30-3:00pm                      | Design Science (What)                                              |      
-|                                                | 3:30-5:00pm                      | Selecting Research Methods (How) | 
-| [Wednesday<br> Nov 1](resources/lecture2.mdmd) | 9-10:30am                        | Report backs on [Exercise 1](activities/exercise1.md) |
-|                                                | 11:00-12:30pm                    | Theories, frameworks and models                                    | 
-|                                                | 1:30-3:00pm                      | Qualitative Methods (an overview)                                  |   
-|                                                | 3:30-5:00pm                      | Designing interviews, surveys and ethnographies                    |   
-|     [Friday <br> Nov 3](resources/lecture3.md) | 9-10:30am                        | Report backs on [Exercise 2](activities/exercise2.md)  |
-|                                                | 11:00-12:30pm                    | (Socio-Technical) Grounded Theory                                  | 
-|                                                | 1:30-3:00pm                      | Mixed and Multi Methods                                            |  
-|                                                | 3:30-5:00pm                      | Provocations and Discussion                                        | 
+|                 Day and link <br> to materials | Time                             | Lecture Topics and        Deliverables                                                 |
+|-----------------------------------------------:|----------------------------------|----------------------------------------------------------------------------------------|
+|  [ Monday <br> Oct 30 ](resources/Lecture1.md) | 9-10:30am                        | Introductions and course overview <br> Who, What, How of Software Engineering Research | 
+|                                                | 11:00-12:30pm                    | Formulating Research Questions (Who)                                                   |
+|                                                | 1:30-3:00pm                      | Design Science (What)                                                                  |      
+|                                                | 3:30-5:00pm                      | Selecting Research Methods (How)                                                       | 
+| [Wednesday<br> Nov 1](resources/lecture2.mdmd) | 9-10:30am                        | Report backs on [Project 1](activities/project1.md)                                    |
+|                                                | 11:00-12:30pm                    | Theories, frameworks and models                                                        | 
+|                                                | 1:30-3:00pm                      | Qualitative Methods (an overview)                                                      |   
+|                                                | 3:30-5:00pm                      | Mixed and Multi Methods                                                                |  
+|     [Friday <br> Nov 3](resources/lecture3.md) | 9-10:30am                        | Report backs on [Project 2](activities/project2.md)                                    |
+|                                                | 11:00-12:30pm                    | (Socio-Technical) Grounded Theory                                                      | 
+|                                                | 1:30-3:00pm                      | Designing Interviews, Surveys and Ethnographies                                        |   i
+|  | 3:30-5:00pm                      | Provocations and Discussion                                                            | 
 
 ---
 
-**Course References:**
+### Course References
 
-See the resources for each lecture in the schedule above for a list of assigned readings and optional references. The following are some general books related to this topic: 
+See also the resources for each lecture in the schedule above for a list of assigned readings and optional references. The following are some general books related to this topic: 
 
 - [Guide to Advanced Empirical Software Engineering](https://link.springer.com/book/10.1007/978-1-84800-044-5), by Forrest Shull, Janice Singer and Dag Sjøberg, Springer 2007, [PDF link](https://link.springer.com/content/pdf/10.1007%2F978-1-84800-044-5.pdf)
 - [Contemporary Empirical Methods in Software Engineering](https://link.springer.com/book/10.1007/978-3-030-32489-6), Editors: Michael Felderer, Guilherme Horta Travassos, Springer 2020. [PDF link](https://link.springer.com/content/pdf/10.1007%2F978-3-030-32489-6.pdf)
