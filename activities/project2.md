@@ -1,33 +1,42 @@
 
 # Project 2 
-#### To be completed on and by the end of the day Nov 2nd, 2023.
+#### To be completed on and by the end of the day Thursday Nov 2nd, 2023.
 
-** work in progress!**
+This project will be done in groups of three-four students (five groups overall, group members will be assigned).
 
-This project can be done in groups of up to three students.  
-Try to work with students you did not work with for project 1 and also choose people you may not know that well! 
-
-For this project you will gain experience designing a mixed methods (or multi) study for a "fictional" research project of your own choosing. At least one of the methods should be a qualitative method.  
+For this project you will gain experience designing a mixed methods (or multi method) study for a "fictional" research project of your own design. At least one of the methods in your design should be a qualitative method.  
 
 #### Preparation
 
-Before starting this project, you should read the slides and assigned papers posted on qualitative methods and mixed/multi methods. 
+Before starting this project, you should read the slides and assigned papers posted on qualitative methods and mixed/multi methods, and refer to the slides on "formulating good research questions", as well as the slides on "conducting disruptive research". 
 
 #### Instructions
 
-Your goal is to design the methodology for a "fictional" (or potentially in progress research) project where you use a mixed or multi methods design, and at least one method is qualitative/inductive and involves the direct involvement of human subjects (refer back to the WWH framework paper). 
+Your goal is to design the methodology for an exciting "fictional" project to study the impacts of a disruptive new technology (an existing one or one you may invent as part of this research) that can be used in software engineering (or a related field).  For this research project, you will need to use a mixed or multi methods design, where at least one method is qualitative and inductive, and involves the direct involvement of human subjects (refer back to the WWH framework paper and to the slides that show a playbook for conducting disruptive research in software engineering).
 
-Prepare a presentation of the methodology, stating: 
-- who are the claimed **beneficiaries** of your proposed research (see the WWH framework);
-- what is your main **research question** of your proposed research?  Thinking of the beneficiary, why is this **question important** to answer (that is consider the **relevance** of your proposed research)? 
-- what kind of **theoretical knowledge** are you aiming to create (in terms of descriptive or prescriptive theoretical knowledge, see our reading/lecture on Design Science); how will your research findings or results contribute to what is already known (that is think about the **novely** of your proposed research)? 
-- which empirical **research methods** will you use as part of the mixed or multi method design?  Why did you select these methods, how do they align with your research questions? 
+To design this **research project**, first you need to consider and report the following: 
+- What **disruptive technology** are you investigating and why? Which **tasks** will this technology support?
+- Using McLuhan's tetrad, consider how this new technology could **enhance human capabilities**, **retrieve features or characteristics** from a previous technology, make **obsolete** some technology used before, and finally what the technology may **reverse into** (or flip into) if overused?
+
+To refine your **research question(s)**, you need to report and consider:
+- What **phenomena** (unit(s) of analysis or actors) you will study and what **theoretical ideas** (concepts) you have about these phenomena (see the McGrath paper)? Note: Combining these with the dimensions of the tetrad will help you brainstorm on a matrix of possible questions.  Select at least two of these questions, choosing questions that were inspired by two or more of the four tetrad dimensions. 
+
+Why this **research matters** and to whom? 
+- Consider who are the claimed **beneficiaries** of your proposed research (see the WWH framework);
+- Thinking of the beneficiary, why is this **question important** to answer (that is consider, the **relevance** of your proposed research)?
+
+What kinds of **knowledge** will you create?
+- Consider what kind of **theoretical knowledge** you are aiming to create (in terms of descriptive or prescriptive theoretical knowledge, see our reading/lecture on Design Science); how will your research findings or results contribute to what is already known (that is think about the **novely** of your proposed research and how you will add to or form new theoretical knowledge)? 
+
+What **methods** will you use?
+- Consider and justify which empirical **research methods** you will use as part of the mixed or multi method design.  Why did you select these methods, how do they align with your research questions (see WWH and McGrath papers, and the slides on mixed methods)? 
 - How do the methods selected align with the quality criteria of **generalizability, control, precision and realism** (see readings by McGrath and the WWH framework and our lecture slides on this topic).
-- how will you ensure the methods you will use are conducted in a **rigorous** manner? What will the main **threats to validity or limitations** be of your research that you will need to report? 
-- given that your research will involve human participants, how will ensure that your research is conducted **ethically**? 
+- Report how you will ensure the methods you will use are conducted in a **rigorous** manner. 
+- Consider and report the main **threats to validity or limitations** of your research. 
+- Given that your research will involve human participants, consider and report how you will ensure the research is conducted ethically. 
 
 #### Submission instructions
-Prepare a google slides presentation to present to the rest of the class.  You will have 10 minutes to present your research design.  Post the link to your slides in Slack (see the channel called Project 2). 
+Prepare a google slides presentation to present your study idea and design to the rest of the class.  You will have up to 10 minutes to present your research design.  Post the link to your slides in Slack (use the channel called Project 2). These will be presented on Friday morning, Nov 3rd at 9am.
 
 ### Assigned Readings 
 - Mixed methods (To be added)
