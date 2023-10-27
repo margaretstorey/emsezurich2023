@@ -5,8 +5,8 @@ Date: Monday, Oct 30th, 2023
 ## Lecture Topics
 
 - Introductions (instructors and students)
-- [Course introduction](../slides/intro.pdf) (mechanics, tools, projects, objectives, topics)
-- [The Who, What, How Framework for Empirical Research](../slides/wwh.pdf)
+- Course introduction (mechanics, tools, projects, objectives, topics)
+- The Who, What, How Framework for Empirical Research
 - Formulating research questions (Who)
 - Design Science (What)
 - Selecting Research Methods (How)
