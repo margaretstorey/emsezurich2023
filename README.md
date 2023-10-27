@@ -24,7 +24,7 @@ This week long course will have three full intense days of lectures and discussi
 |                                                | 11:00-12:30pm                    | Who, What, How  of Empirical Research <br> Formulating Research Questions (Who) |
 |                                                | 1:30-3:00pm                      | Design Science (What)                                                           |      
 |                                                | 3:30-5:00pm                      | Selecting research methods (How)                                                | 
-| [Wednesday<br> Nov 1](resources/lecture2.mdmd) | 9-10:30am                        | Report backs on [Project 1](activities/project1.md)                             |
+| [Wednesday<br> Nov 1](resources/lecture2.md) | 9-10:30am                        | Report backs on [Project 1](activities/project1.md)                             |
 |                                                | 11:00-12:30pm                    | Theories, frameworks and models                                                 | 
 |                                                | 1:30-3:00pm                      | Mixed and multi methods                                                         |   
 |                                                | 3:30-5:00pm                      | Disruptive research                                                             |  

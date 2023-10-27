@@ -17,13 +17,12 @@ By the end of this first day and first project you will be able to understand an
 ## Assigned Work
 - [Project 1](../activities/project1.md)
 
-## Assigned Readings
-- See Project 1 and also the slides for additional readings. 
-
-**Optional readings/podcasts:**
-
+## Readings
+- See Project 1 
+- See lecture slides for additional readings. 
 - Chapter 1 of [Software Engineering at Google](https://www.oreilly.com/library/view/software-engineering-at/9781492082781/) By Titus Winters, Tom Manshreck and Hyrum Wright, O'Reilly Media 
 - [Exploding Software Engineering Myths](https://www.microsoft.com/en-us/research/blog/exploding-software-engineering-myths/) By Janie Chang, Writer, Microsoft Research
+- [Is this really science,The Semantic Webber’s Guide to Evaluating Research Contributions](https://www.merlin.uzh.ch/publication/show/9417), by Abraham Bernstein and Natasha Noy, 2014. 
 - See general readings on the course home page 
 
 
