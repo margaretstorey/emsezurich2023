@@ -18,20 +18,20 @@ This week long course will have three full intense days of lectures and discussi
 
 **Lectures will held in room BIN-1.D.29 and on Zoom (link available from the instructor by request).**
 
-|                 Day and link <br> to materials | Time                             | Lecture Topics and        Deliverables                                                 |
-|-----------------------------------------------:|----------------------------------|----------------------------------------------------------------------------------------|
-|  [ Monday <br> Oct 30 ](resources/Lecture1.md) | 9-10:30am                        | Introductions and course overview <br> Who, What, How of Software Engineering Research | 
-|                                                | 11:00-12:30pm                    | Formulating Research Questions (Who)                                                   |
-|                                                | 1:30-3:00pm                      | Design Science (What)                                                                  |      
-|                                                | 3:30-5:00pm                      | Selecting Research Methods (How)                                                       | 
-| [Wednesday<br> Nov 1](resources/lecture2.mdmd) | 9-10:30am                        | Report backs on [Project 1](activities/project1.md)                                    |
-|                                                | 11:00-12:30pm                    | Theories, frameworks and models                                                        | 
-|                                                | 1:30-3:00pm                      | Qualitative Methods (an overview)                                                      |   
-|                                                | 3:30-5:00pm                      | Mixed and Multi Methods                                                                |  
-|     [Friday <br> Nov 3](resources/lecture3.md) | 9-10:30am                        | Report backs on [Project 2](activities/project2.md)                                    |
-|                                                | 11:00-12:30pm                    | (Socio-Technical) Grounded Theory                                                      | 
-|                                                | 1:30-3:00pm                      | Designing Interviews, Surveys and Ethnographies                                        |   i
-|  | 3:30-5:00pm                      | Provocations and Discussion                                                            | 
+|                 Day and link <br> to materials | Time                             | Lecture Topics and        Deliverables                                          |
+|-----------------------------------------------:|----------------------------------|---------------------------------------------------------------------------------|
+|  [ Monday <br> Oct 30 ](resources/Lecture1.md) | 9-10:30am                        | Introductions and course overview                                               | 
+|                                                | 11:00-12:30pm                    | Who, What, How  of Empirical Research <br> Formulating Research Questions (Who) |
+|                                                | 1:30-3:00pm                      | Design Science (What)                                                           |      
+|                                                | 3:30-5:00pm                      | Selecting research methods (How)                                                | 
+| [Wednesday<br> Nov 1](resources/lecture2.mdmd) | 9-10:30am                        | Report backs on [Project 1](activities/project1.md)                             |
+|                                                | 11:00-12:30pm                    | Theories, frameworks and models                                                 | 
+|                                                | 1:30-3:00pm                      | Mixed and multi methods                                                         |   
+|                                                | 3:30-5:00pm                      | Disruptive research                                                             |  
+|     [Friday <br> Nov 3](resources/lecture3.md) | 9-10:30am                        | Qualitative methods                                                             |
+|                                                | 11:00-12:30pm                    | (Socio-Technical) Grounded Theory <br> (guest: Prof. Rashina Hoda)              | 
+|                                                | 1:30-3:00pm                      | Report backs on [Project 2](activities/project2.md)                             |   i
+|  | 3:30-5:00pm                      | Provocations and discussion                                                     | 
 
 ---
 
