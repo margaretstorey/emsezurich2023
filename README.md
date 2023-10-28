@@ -48,6 +48,7 @@ See also the resources for each lecture in the schedule above for a list of assi
 
 - Videos from a previous related course are available here: [YouTube Empirical Software Engineering Banter Playlist](https://www.youtube.com/playlist?list=PLMZx0_b0n5sz371299dtt0wzuu29xU4nD)
 and podcasts of the same videos are available [here](https://anchor.fm/margaret-anne-d-storey)
+- Dr. Bogdan Vasilescu's course on empirical research methods at CMU: https://github.com/bvasiles/empirical-methods 
 
 
 
