@@ -1,6 +1,9 @@
-# Day 3: 
+# Day 3: Qualitative Methods, Grounded Theory, Provocations 
 
 Date: Friday, Nov 3rd, 2023 
+
+#### Slides will be posted in the Slides Channel on Slack
+
 
 ## Lecture Topics and Objectives
 - Qualitative Methods 

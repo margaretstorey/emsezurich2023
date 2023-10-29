@@ -4,6 +4,8 @@ Date: Monday, Oct 30th, 2023
 
 ## Lecture Topics
 
+#### Slides will be posted in the Slides Channel on Slack
+
 - Introductions (instructors and students)
 - Course introduction (mechanics, tools, projects, objectives, topics)
 - The Who, What, How Framework for Empirical Research
