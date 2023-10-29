@@ -9,7 +9,7 @@ For this project you will gain experience with the Who, What, How framework by c
 
 #### Preparation
 
-Before starting this project, you should read the papers referenced below indicated as assigned readings. You may also wish to read the optional readings and refer to the lecture slides/video. 
+Before starting this project, you may wish to review the slides from class and see the readings below if anything is not clear.  You can also contact the instructor (Peggy) if something is not clear (please use Slack). 
 
 ### Part 1
 
@@ -24,13 +24,13 @@ Your goal is to apply the Who, What, How framework to your assigned papers by an
 - for the empirical papers, how do the authors convince the readers that their research and findings are **novel, rigorous, and relevant** to others (see Design science paper and lecture slides on Design Science);
 - what is your personal opinion of the **importance** of this research.
 
-Your task is to read and think critically about each of the assigned paper abstracts, and answer the above set of questions for each of them (some papers may have a preprint online, and you are free and encouraged to look at these if available). Some of these questions may be difficult to answer -- do your best attempt and in some cases you can indicate if the answer is just not clear in the abstract.   
+Your task is to read and think critically about each of the assigned paper abstracts, and answer the above set of questions for each of them (some papers may have a preprint online, and you are free and encouraged to look at these if available). Some of these questions may be difficult to answer -- do your best attempt and in some cases you can indicate if the answer is just not clear in the abstract. Indeed, I anticipate that you some of the questions may not be easy to answer from the abstracts alone! 
 
-Note that several of the questions ask you to elaborate on your decisions for type of paper etc, for many of these you can copy/paste quotes directly from the paper abstracts you are reading.
+Note that several of the questions ask you to elaborate on your decisions for type of paper etc, for many of these you can copy/paste quotes directly from the paper abstracts you are reading if you wish.
 
 #### Submission instructions
-To submit your individual answers for each assigned paper, please use this form: https://www.surveymonkey.ca/r/emse-zurich-proj1-part1 for each of your 17 assigned paper abstracts.
-Make sure you fill out the corresponding form for each paper (that is, take care to select the paper name carefully in the survey pulldown box!!!!). You may wish to record your answers separately before entering in survey monkey in case of mistakes.
+To submit your individual answers for each assigned paper, please use this form: https://www.surveymonkey.ca/r/emse-zurich-proj1-part1 for each of your 11-12 assigned paper abstracts.
+Make sure you fill out the corresponding form for each paper (that is, take care to select the paper name carefully in the survey pulldown box!!!!). You may wish to record your answers separately before entering in survey monkey in case of mistakes (but this may make the exercise more time consuming, my advice is to just take care!).
 
 ### Part  2
 
@@ -40,15 +40,17 @@ Each paper abstract will have two or three "reviewers" assigned to it.  In the s
 For this second phase, you should compare your "answers" in your group and discuss/report/note any discrepancies with other members in your group (there is a question for this in the survey for Part2). For each paper, submit a new response that represents your "combined" view here: https://www.surveymonkey.ca/r/emse-zurich-proj1-part2 by end of the day Oct 31st. Budget your time accordingly - and try to get through most of the papers.  
 
 For the report back in class, your group should prepare a very brief presentation on your findings from this activity.  Tell us when you agreed and disagreed (we don't need all details), and reflect on the Who, What, How framework as a way for reviewing the papers.  How could this framework perhaps be improved?
-If you have previously reviewed papers for conferences, how did this experience compare with this previous reviewing experience?  Each group will have up to 10 minutes (allow some time for questions) to present their insights.  Post any presentation materials on Slack (use the channel Project1 and label your file with the group letter A-F). 
+If you have previously reviewed papers for conferences, how did this experience compare with this previous reviewing experience?  Each group will have up to 10 minutes (allow some time for questions) to present their insights.  Post any presentation materials on Slack (use the channel Project1 and label your file with the group letter A-F). However, it is not necessary to prepare slides as this part is discussion based.  
 
-### Assigned Readings 
+### Relevant Readings 
+
+The important details are covered in the lectures on Monday! 
 
 - [The who, what, how of software engineering research: a socio-technical framework.](https://link.springer.com/article/10.1007%2Fs10664-020-09858-z) Storey, M., Ernst, N.A., Williams, C.,  Empirical Software Engineering, 25, 4097–4129 (2020).
 - [Design Science Research in Software Engineering](http://chisel.cs.uvic.ca/pubs/storey-ESEM2017.pdf) by Storey, Enstrom, Host and Runeson, ESEM 2017.
 - [Selecting empirical methods for software engineering research](https://www.cin.ufpe.br/~fmcf2/Doutorado/2008-Guide%20to%20Advanced%20Empirical%20Software%20Engineering.pdf#page=289) by S Easterbrook, J Singer, MA Storey, D Damian, appeared in Guide to advanced empirical software engineering, 285-311. 
 
-#### Optional Readings
+#### Even nore readings
 
 - [Methodology Matters by McGrath](https://www.sciencedirect.com/science/article/pii/B9780080515748500194), [PDF link](https://hci.stanford.edu/courses/cs376/2014/readings/mcgrath_methodology_matters.pdf)
 - [How software engineering research aligns with design science: a review](https://link.springer.com/article/10.1007/s10664-020-09818-7) by Emelie Engström, Margaret-Anne Storey, Per Runeson, Martin Höst & Maria Teresa Baldassarre, Empirical Software Engineering volume 25, pages 2630–2660, 2020.
