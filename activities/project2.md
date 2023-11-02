@@ -9,7 +9,7 @@ For this project you will gain experience designing a mixed methods (or multi me
 
 #### Preparation
 
-Before starting this project, you should read the slides and assigned papers posted on qualitative methods and mixed/multi methods, and refer to the slides on "formulating good research questions", as well as the slides on "conducting disruptive research". 
+Before starting this project, you should read the slides posted on theories and mixed/multi methods, and refer to the slides on "formulating good research questions", as well as the slides on "conducting disruptive research". 
 
 #### Instructions
 
@@ -38,10 +38,6 @@ What **methods** will you use?
 
 #### Submission instructions
 Prepare a google slides presentation to present your study idea and design to the rest of the class.  You will have up to 10 minutes to present your research design.  Post the link to your slides in Slack (use the channel called Project 2). These will be presented on Friday morning, Nov 3rd after lunch.
-
-### Assigned Readings 
-- Mixed methods (To be added)
-- Evaluating qualitative research (To be added)
 
 #### Optional Readings, already assigned but copied here for convenience
 

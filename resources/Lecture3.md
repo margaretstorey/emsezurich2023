@@ -17,6 +17,7 @@ Date: Friday, Nov 3rd, 2023
 
 ## Assigned Readings
 - See slides for each topic for assigned readings.
+- More on [threats to validity](https://www.researchgate.net/profile/Roberto-Verdecchia/publication/373732318_Threats_to_validity_in_software_engineering_research_A_critical_reflection/links/64fc5a9310813375f26a0e81/Threats-to-validity-in-software-engineering-research-A-critical-reflection.pdf) 
 
 
 
